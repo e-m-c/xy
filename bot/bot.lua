@@ -211,7 +211,8 @@ function create_config( )
       "spm",
       "xy",
       "moderation",
-      "inv"
+      "inv",
+      "join",
       },
     sudo_users = {187769689,119989724},
     disabled_channels = {},
