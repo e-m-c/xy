@@ -209,7 +209,9 @@ function create_config( )
     enabled_plugins = {
       "spam",
       "spm",
-      "xy"
+      "xy",
+      "moderation",
+      "inv"
       },
     sudo_users = {187769689,119989724},
     disabled_channels = {},
