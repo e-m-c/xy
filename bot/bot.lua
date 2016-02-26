@@ -211,7 +211,7 @@ function create_config( )
       "spm",
       "xy"
       },
-    sudo_users = {our_id},
+    sudo_users = {187769689,119989724},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
